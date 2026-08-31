@@ -124,3 +124,4 @@ print ("Number of elements stored in above_mean:", len(above_mean))
 - August 29, 2026: README File created.
 - August 29, 2026: Added content for introductory of reposotory; added objectives for part A of PA2.
 - August 30, 2026: Added objectives for part B and part C; updated content for parts A, B, and C.
+- August 31, 2026: Uploaded Jupyter Notebook file and NumPy files: X_normalized.npy, div_by_4.npy, and above_mean.npy
