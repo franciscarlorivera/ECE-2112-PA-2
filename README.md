@@ -6,10 +6,10 @@ Rivera, Francis Carlo E. | 2ECE-D
 The repository covers Programming Assignment 2 for our ECE2112: Advanced Computer Programming and Algorithms course. The PA contains three programming problems that focuses on constructing NumPy arrays and using NumPy operations to perform mathematical array operations as well as array manipulation to achieve the desired results in each problem.
 
 ### INTENDED LEARNING OUTCOMES
-1. create and reshape NumPy arrays using appropriate NumPy functions
-2. perform vectorized numerical operations on an ndarray
-3. compute array statistics and use Boolean conditions to select elements
-4. save computed NumPy arrays as .npy files
+1. Create and reshape NumPy arrays using appropriate NumPy functions
+2. Perform vectorized numerical operations on an ndarray
+3. Compute array statistics and use Boolean conditions to select elements
+4. Save computed NumPy arrays as .npy files
 
 # A. REPRODUCIBLE NORMALIZATION PROBLEM
 > Objectives:
@@ -121,7 +121,8 @@ print ("Number of elements stored in above_mean:", len(above_mean))
 
 
 # VERSION HISTORY
-- August 29, 2026: README File created.
+- August 29, 2026: README file created.
 - August 29, 2026: Added content for introductory of reposotory; added objectives for part A of PA2.
 - August 30, 2026: Added objectives for part B and part C; updated content for parts A, B, and C.
-- August 31, 2026: Uploaded Jupyter Notebook file and NumPy files: X_normalized.npy, div_by_4.npy, and above_mean.npy
+- August 31, 2026: Uploaded Jupyter Notebook file and NumPy files: X_normalized.npy, div_by_4.npy, and above_mean.npy.
+- August 31, 2026: Adjusted formatting for sections of README file.
